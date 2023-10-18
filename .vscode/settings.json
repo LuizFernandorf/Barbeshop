@@ -1,0 +1,32 @@
+{
+    "cSpell.words": [
+        "ADPX",
+        "AKIA",
+        "colab",
+        "colaboradorid",
+        "consts",
+        "culturem",
+        "dsphare",
+        "flatlist",
+        "immer",
+        "Km",
+        "Middlewares",
+        "Orenoco",
+        "pagarme",
+        "Pingu",
+        "postback",
+        "preco",
+        "rsuite",
+        "saloes",
+        "serv",
+        "studiodue",
+        "valuekey",
+        "zipcode"
+    ],
+    "editor.formatOnSaveMode": "modificationsIfAvailable",
+    "editor.fontFamily": "JetBrains Mono",
+    "vscode-janus-debug.uploadOnSave": [
+        "index"
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
